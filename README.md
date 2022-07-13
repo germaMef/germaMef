@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @germaMef
-- 👀 I’m interested in software
-- 🌱 I’m currently learning linux system
-- 💞️ I’m looking to collaborate on redhat exam preparation
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning linux system,devops,clouds providers...
+- 💞️ I’m looking to collaborate on certifications preparation
 - 📫 How to reach me ...
 
 <!---
